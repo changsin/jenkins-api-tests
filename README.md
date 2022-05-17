@@ -4,7 +4,8 @@ POC of controlling builds through Jenkins remote API in Python
 The project contains a POC for manipulating Jenkins builds through [Remote Access API](https://www.jenkins.io/doc/book/using/remote-access-api)
 
 ## Setup
-Install python-jenkins
+Python-Jenkins is a wrapper of Remote Access API.
+Install [python-jenkins](https://python-jenkins.readthedocs.io/en/latest/api.html#module-jenkins)
 
 ```commandline
 pip install python-jenkins
